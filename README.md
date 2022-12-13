@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any interesting and challenging projects**
 
-- 📫 How to reach me **kohhxx6@gamil.com**
+- 📫 How to reach me **kohhxx6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
