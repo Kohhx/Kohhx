@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **node/express and react**
 
+- 🔭 I’m currently working on **Nannies app (React and nodeJS stack)**
+
 - 👯 I’m looking to collaborate on **Any interesting and challenging projects**
 
 - 📫 How to reach me **kohhxx6@gmail.com**
