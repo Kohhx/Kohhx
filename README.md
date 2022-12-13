@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koh He Xiang</h1>
-<h3 align="center">A passionate full stack developer who loves every aspect of coding</h3>
+<h3 align="center">A passionate full stack developer who loves every aspect of coding. Always looking forward to acquire new knowledge related to programming and explore new challenging stuff! Actively looking out for anyone who wants to collaborate on projects! Feel free to contact me =) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohhx&label=Profile%20views&color=0e75b6&style=flat" alt="kohhx" /> </p>
 
